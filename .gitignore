@@ -1,3 +1,22 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter/
+.packages
+pubspec.lock
+
+# Build outputs
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+android/app/build/
+
+# Misc
+*.lock
+*.log
+*.tmp
+
 # Miscellaneous
 *.class
 *.log
