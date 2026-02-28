@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
           brightness: Brightness.light,
         ),
         useMaterial3: true,
-        scaffoldBackgroundColor: const Color(0xFF3d3d3d), // Dark gray background
+        scaffoldBackgroundColor: const Color(0xFF3d3d3d), 
         textTheme: GoogleFonts.robotoTextTheme(),
         appBarTheme: AppBarTheme(
           backgroundColor: const Color(0xFF3d3d3d),
