@@ -1,0 +1,36 @@
+name: nuevagemshop
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/diamond_yellow.png
+    - assets/images/diamond_blue.png
+    - assets/images/diamond_pink.png
+    - assets/images/ruby.png
+    - assets/images/sapphire.png
+    - assets/images/emerald.png
+    - assets/images/amethyst.png
+    - assets/images/profilepicture.png
+
+ 
